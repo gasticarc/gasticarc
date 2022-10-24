@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaston Pascua</h1>
+
 - 🔭 I’m currently working on **Ministry of Education as software analyst**
 
 - 🌱 I’m currently learning **Data Science in CoderHouse**
