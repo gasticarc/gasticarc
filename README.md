@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaston Pascua</h1>
 
-- 🔭 I’m currently working on **Ministry of Education as software analyst**
+- 🔭 I’m currently working at **Ministry of Education as software analyst**
 
-- 🌱 I’m currently learning **Data Science in CoderHouse**
+- 🌱 I’m currently learning on **Data Science in CoderHouse**
 
 - 📚 I'm currently studying on **Computer Engineering in The National University of La Matanza**
 
